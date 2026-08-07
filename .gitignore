@@ -1,0 +1,14 @@
+# Altium history and temporary files
+History/
+__History/
+*.CompileLog
+*.Lck
+*.Preview
+
+# Project output files
+Project Outputs for */
+ProjectLogs/
+
+# OS files
+Thumbs.db
+Desktop.ini

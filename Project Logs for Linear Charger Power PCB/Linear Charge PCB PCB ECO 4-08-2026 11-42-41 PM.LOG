@@ -1,0 +1,37 @@
+Removed Member From Class: ClassName=BQ24074_IC Member=R?
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR9_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR10_2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U2-7
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=U2-12
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U2-15
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U2-14
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=R13-1
+Added Pin To Net: NetName=NetR11_2 Pin=U4-4
+Added Net: Name=NetR11_2
+Added Member To Class: ClassName=BQ24074_IC Member=Component C2 1uF 10% 0805
+Added Member To Class: ClassName=BQ24074_IC Member=Component R4 18 Ohm 1% 0603
+Added Member To Class: ClassName=BQ24074_IC Member=Component R6 1.1K 1% 0603
+Added Member To Class: ClassName=BQ24074_IC Member=Component R7 2.94K 1% 0603
+Added Member To Class: ClassName=BQ24074_IC Member=Component R8 56KO 1% 0603
+Added Member To Class: ClassName=BQ24074_IC Member=Component R9 887 1% 0603
+Added Member To Class: ClassName=Voltage Regs Member=Component R11 66.5K 1% 0603
+Added Member To Class: ClassName=Voltage Regs Member=Component R13 10K 1% 0603

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=IMU_SCL Pin=J3-4
+Removed Pin From Net: NetName=IMU_SDA Pin=J3-6
+Removed Pin From Net: NetName=IMU_INT Pin=J3-8
+Added Pin To Net: NetName=IMU_SCL Pin=J3-3
+Added Pin To Net: NetName=IMU_SDA Pin=J3-5
+Added Pin To Net: NetName=IMU_INT Pin=J3-7
+Added Pin To Net: NetName=NetJ3_4 Pin=J3-4
+Added Pin To Net: NetName=NetJ3_4 Pin=U2-4
+Added Net: Name=NetJ3_4
+Added Pin To Net: NetName=NetJ3_6 Pin=J3-6
+Added Pin To Net: NetName=NetJ3_6 Pin=U2-5
+Added Net: Name=NetJ3_6
+Added Pin To Net: NetName=NetJ3_8 Pin=J3-8
+Added Pin To Net: NetName=NetJ3_8 Pin=U2-6
+Added Net: Name=NetJ3_8
