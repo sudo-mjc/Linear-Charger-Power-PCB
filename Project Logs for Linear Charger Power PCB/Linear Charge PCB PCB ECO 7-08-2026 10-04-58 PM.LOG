@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=IMU_SCL Pin=J3-3
+Removed Pin From Net: NetName=IMU_INT Pin=J3-7
+Removed Pin From Net: NetName=NetJ3_4 Pin=U2-4
+Removed Pin From Net: NetName=NetJ3_8 Pin=U2-6
+Added Pin To Net: NetName=IMU_INT Pin=J3-3
+Added Pin To Net: NetName=IMU_SCL Pin=J3-7
+Added Pin To Net: NetName=NetJ3_8 Pin=U2-4
+Added Pin To Net: NetName=NetJ3_4 Pin=U2-6
+Added Room: Name=BQ24074_IC
+Added Room: Name=IO Connections V1
+Added Room: Name=Voltage Regs

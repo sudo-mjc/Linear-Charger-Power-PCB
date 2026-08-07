@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=J1-A1
+Removed Pin From Net: NetName=VBUS Pin=J1-A4
+Removed Pin From Net: NetName=VBUS Pin=J1-A9
+Removed Pin From Net: NetName=GND Pin=J1-A12
+Removed Pin From Net: NetName=GND Pin=J1-B1
+Removed Pin From Net: NetName=VBUS Pin=J1-B4
+Removed Pin From Net: NetName=VBUS Pin=J1-B9
+Removed Pin From Net: NetName=GND Pin=J1-B12
+Change Component Footprint: Designator=J1 Old Footprint=FP-12401899E412A-MFG New Footprint=GCT_USB4105-GF-A
+Change Component Comment : Designator=J1 Old Comment=12401899E412A New Comment=USB4105-GF-A
+Change Managed Component Library Link : Designator=J1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=FC1CACCC-0299-4014-B7EB-24B6DBE08D33 New ItemGUID= Old RevisionGUID=254E0717-BF34-4F75-B7EC-6EF539BD56E5 New RevisionGUID=
+Change component parameters: Designator = "J1" ("J1"); Footprint = "FP-12401899E412A-MFG"; UniqueID = "\HVQEYNWG" ("\HVQEYNWG")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'GCT'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "USB4105-GF-A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-A1_B12
+Added Pin To Net: NetName=VBUS Pin=J1-A4_B9
+Added Pin To Net: NetName=GND Pin=J1-A8
+Added Pin To Net: NetName=GND Pin=J1-B1_A12
+Added Pin To Net: NetName=VBUS Pin=J1-B4_A9
+Added Pin To Net: NetName=GND Pin=J1-B8
+Added Pin To Net: NetName=GND Pin=J1-SH1
+Added Pin To Net: NetName=GND Pin=J1-SH2
+Added Pin To Net: NetName=GND Pin=J1-SH3
+Added Pin To Net: NetName=GND Pin=J1-SH4

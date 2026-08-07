@@ -133,7 +133,28 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EOFMGTTD
 
+[Document6]
+DocumentPath=Linear Charge PCB.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WBVYQFMU
+
 [GeneratedDocument1]
+DocumentPath=Project Outputs for Linear Charger Power PCB\Design Rule Check - Linear Charge PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=MessageListReport.html
 DItemRevisionGUID=
 
