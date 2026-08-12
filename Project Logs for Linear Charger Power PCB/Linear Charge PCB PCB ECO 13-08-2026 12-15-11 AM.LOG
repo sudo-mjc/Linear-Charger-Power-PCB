@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=R14-2
+Removed Pin From Net: NetName=GND Pin=U5-6
+Removed Pin From Net: NetName=GND Pin=U5-11
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=U5-5
+Added Pin To Net: NetName=BATT+ Pin=U5-10
+Added Pin To Net: NetName=BATT- Pin=C9-2
+Added Pin To Net: NetName=BATT- Pin=J2-2
+Added Pin To Net: NetName=BATT- Pin=R14-2
+Added Pin To Net: NetName=BATT- Pin=U5-6
+Added Pin To Net: NetName=BATT- Pin=U5-11
+Added Net: Name=BATT-
+Added Room: Name=Charge Managment ICs
+Added Room: Name=IO Connections V1
+Added Room: Name=Voltage Regs

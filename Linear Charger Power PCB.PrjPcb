@@ -131,9 +131,13 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WBVYQFMU
+DocumentUniqueId=TSITTIVV
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for Linear Charger Power PCB\Design Rule Check - Linear Charge PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=MessageListReport.html
 DItemRevisionGUID=
 

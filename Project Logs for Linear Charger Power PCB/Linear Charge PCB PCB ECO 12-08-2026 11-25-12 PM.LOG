@@ -1,0 +1,23 @@
+Change Component Footprint: Designator=P5 Old Footprint=61300211121 New Footprint=61300211121
+Added Component: Designator=U5(SON40P200X250X80-11N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MAX17055ETB+T/Maxim+Integrated/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Maxim Integrated Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MAX17055ETB+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MAX17055ETB+T/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MAX17055ETB+T/Maxim+Integrated/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BATT_NTC Pin=U5-2
+Added Pin To Net: NetName=FG_SCL Pin=U5-3
+Added Pin To Net: NetName=FG_SDA Pin=U5-4
+Added Pin To Net: NetName=GND Pin=U5-6
+Added Pin To Net: NetName=NetC9_1 Pin=U5-7
+Added Pin To Net: NetName=FG_ALRT Pin=U5-8
+Added Pin To Net: NetName=NetR5_1 Pin=U5-9
+Added Pin To Net: NetName=NetC8_1 Pin=U5-10
+Added Pin To Net: NetName=GND Pin=U5-11
+Added Member To Class: ClassName=Charge Managment ICs Member=Component U5 MAX17055ETB+T
+Added Room: Name=IO Connections V1
+Added Room: Name=Voltage Regs

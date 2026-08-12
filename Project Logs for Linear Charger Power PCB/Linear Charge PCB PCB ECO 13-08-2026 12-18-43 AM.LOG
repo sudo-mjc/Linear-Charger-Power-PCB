@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=FG_SCL Pin=P1-1
+Removed Pin From Net: NetName=FG_SDA Pin=P1-2
+Added Pin To Net: NetName=FG_SDA Pin=P1-1
+Added Pin To Net: NetName=FG_SCL Pin=P1-2
+Added Room: Name=Charge Managment ICs
+Added Room: Name=IO Connections V1
+Added Room: Name=Voltage Regs

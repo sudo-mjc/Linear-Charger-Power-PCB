@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=P5 Old Footprint=61300211121 New Footprint=61300211121
+Add Component: Footprint Not Found SON40P200X250X80-11N
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U5-7
+Add Pin To Net: Unknown Pin: Pin U5-8
+Add Pin To Net: Unknown Pin: Pin U5-9
+Add Pin To Net: Unknown Pin: Pin U5-10
+Add Pin To Net: Unknown Pin: Pin U5-11
+Add Class Member: Failed to add class member : Component U5 MAX17055ETB+T
+Added Room: Name=IO Connections V1
+Added Room: Name=Voltage Regs
